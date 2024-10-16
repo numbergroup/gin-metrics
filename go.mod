@@ -5,10 +5,11 @@ go 1.22
 require (
 	github.com/bits-and-blooms/bitset v1.14.3
 	github.com/gin-gonic/gin v1.10.0
-	github.com/penglongli/gin-metrics v0.1.10
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.20.5
 )
+
+require github.com/kr/text v0.1.0 // indirect
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
