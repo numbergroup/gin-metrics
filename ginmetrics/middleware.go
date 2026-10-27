@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/gin-gonic/gin"
+	"github.com/numbergroup/gin-light"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 
 	"github.com/numbergroup/gin-metrics/bloom"

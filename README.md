@@ -50,7 +50,7 @@ Your can see some metrics across `http://localhost:8080/metrics`
 package main
 
 import (
-	"github.com/gin-gonic/gin"
+	"github.com/numbergroup/gin-light"
 
 	"github.com/penglongli/gin-metrics/ginmetrics"
 )

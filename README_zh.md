@@ -32,7 +32,7 @@ $ go get github.com/penglongli/gin-metrics
 package main
 
 import (
-	"github.com/gin-gonic/gin"
+	"github.com/numbergroup/gin-light"
 
 	"github.com/penglongli/gin-metrics/ginmetrics"
 )
