@@ -1,7 +1,7 @@
 package ginmetrics
 
 import (
-	"github.com/cockroachdb/errors"
+	"github.com/numbergroup/errors"
 	"github.com/prometheus/client_golang/prometheus"
 )
 
